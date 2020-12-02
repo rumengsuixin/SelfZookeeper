@@ -1,7 +1,7 @@
 {
 	"name":"tkfmtz/self-zookeeper",
 	"description":"The original version",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"type":"library",
 	"keywords":["events"],
 	"license":"MIT",
@@ -13,7 +13,7 @@
 			"role": "Developer"
 		}
 	],
-	"minimum-stability":"dev",
+	"minimum-stability":"stable",
 	"autoload":{
 		"files":["./SelfZookeeper.php"]
 	}
