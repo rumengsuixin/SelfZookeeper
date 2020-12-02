@@ -8,6 +8,9 @@ class SelfZookeeper extends Zookeeper
     }
     public function two(){
         echo 2;
+    } 
+    public function three(){
+        echo 3;
     }
 
 } ?>

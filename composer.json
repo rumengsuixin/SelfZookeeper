@@ -1,7 +1,7 @@
 {
 	"name":"tkfmtz/self-zookeeper",
-	"description":"The v1.0.2  version",
-	"version":"1.0.2",
+	"description":"The v1.0.3  version",
+	"version":"1.0.3",
 	"type":"library",
 	"keywords":["events"],
 	"license":"MIT",
