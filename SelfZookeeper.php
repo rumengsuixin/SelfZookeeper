@@ -6,5 +6,8 @@ class SelfZookeeper extends Zookeeper
     {
         print_r($data);
     }
+    public function two(){
+        echo 2;
+    }
 
 } ?>
